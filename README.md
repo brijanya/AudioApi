@@ -14,6 +14,7 @@ The following files in AudioServer folder are important:
 
 __models.py__
 The API is simple and uses only text data as input however any data can be used by changing the models.py file.
+The section that will allow you to upload file is commented.
 The tables are:
 1. Song - for storing songs data
 2. Podcast - for storing podcast data
