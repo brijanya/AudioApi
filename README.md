@@ -3,6 +3,8 @@ This repository has two folders.
 1. AudioApi - Root project folder
 2. AudioServer - API folder
 
+Click on the links or change URL accordingly.
+
 The API uses Django Rest Framework
 The Database used is SQLite3 that is prebuilt however using any other is not a problem
 
